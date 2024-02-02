@@ -9,20 +9,20 @@
 
 I'm a passionate User Experience Designer hailing from Algeria 🇩🇿 and a software engineering student who believes in the power of delightful user experiences and clean, efficient code
 
-## 🌱 About Me
+## About Me
 
-- 🔭 I’m currently working on honing my web development skills and expanding my knowledge in front-end technologies.
-- 🌟 I strive to create meaningful and delightful user experiences by combining aesthetics, usability, and functionality.
-- 💡 I'm a lifelong learner and constantly explore new design trends, frontend frameworks, and UX methodologies.
-- 🌟 When I'm not designing or coding, you can find me reading, painting or  doing Karaoke.
+- I’m currently working on honing my web development skills and expanding my knowledge in front-end technologies.
+- I strive to create meaningful and delightful user experiences by combining aesthetics, usability, and functionality.
+- I'm a lifelong learner and constantly explore new design trends, frontend frameworks, and UX methodologies.
+- When I'm not designing or coding, you can find me reading, painting or  doing Karaoke.
 
-## 💼 Skills in My Toolbox
+## Skills in My Toolbox
 
 - **Design Magic**: Wireframing, Prototyping, User Research, Information Architecture, Interaction Design.
 - **Coding Wizardry**: HTML, CSS, JavaScript, React JS, Python, Django, Java, Responsive Design, Git.
 - **Graphics Sorcery**:Figma, Adobe Creative Suite (Photoshop, Illustrator).
 
-## 🚀 Let's Connect and Create Something Awesome!
+## Let's Connect and Create Something Awesome!
 
 - 🌐 Behance: [/jooreez](https://www.behance.net/jooreez)
 - 📧 Email: [hr.bouchenine@gmail.com]
