@@ -7,7 +7,7 @@
 </div>
 
 
-I'm a passionate User Experience Designer hailing from Algeria 🇩🇿 and a software engineering student who believes in the power of delightful user experiences and clean, efficient code
+I'm a User Experience Designer hailing from Algeria 🇩🇿 and a software engineering student, I believe in the power of delightful user experiences and clean, efficient code
 
 ## About Me
 
